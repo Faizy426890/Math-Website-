@@ -173,7 +173,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I used to struggle with algebra, but Faizan’s explanations made everything crystal clear. Math feels so easy now!",
+      "I used to struggle with algebra, but Zainy's explanations made everything crystal clear. Math feels so easy now!",
     name: "Sara Lee",
     designation: "High School Student",
     company: "Springfield Academy",
